@@ -259,278 +259,6 @@
 				</div>
 
 
-
-				<div class="section topmargin mb-0 border-bottom-0">
-					<div class="container clearfix">
-						<div class="heading-block center m-0">
-							<h3>Our Latest Works</h3>
-						</div>
-					</div>
-				</div>
-
-				<div id="portfolio" class="portfolio row no-gutters portfolio-reveal grid-container">
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-media pf-icons">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/1.jpg" alt="Open Imagination">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="images/portfolio/full/1.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single.html">Open Imagination</a></h3>
-								<span><a href="#">Media</a>, <a href="#">Icons</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="images/portfolio/full/2.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-								<span><a href="#">Illustrations</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="#">
-									<img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="https://vimeo.com/89396394"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-								<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/4.jpg" alt="Open Imagination">
-								</a>
-								<div class="bg-overlay" data-lightbox="gallery">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="images/portfolio/full/4.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/4-1.jpg" class="d-none"
-											data-lightbox="gallery-item"></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-								<span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-uielements pf-media">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/5.jpg" alt="Console Activity">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/5.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html">Console
-										Activity</a></h3>
-								<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html">
-									<img src="http://themes.semicolonweb.com/html/canvas/images/portfolio/4/6.jpg"
-										alt="Open Imagination">
-								</a>
-								<div class="bg-overlay" data-lightbox="gallery">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/6.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/6-1.jpg"
-											class="d-none" data-lightbox="gallery-item"></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/6-2.jpg"
-											class="d-none" data-lightbox="gallery-item"></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/6-3.jpg"
-											class="d-none" data-lightbox="gallery-item"></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single-gallery.html"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="http://themes.semicolonweb.com/html/canvas/portfolio-single-gallery.html">Shake
-										It!</a></h3>
-								<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-uielements pf-icons">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single-video.html">
-									<img src="http://themes.semicolonweb.com/html/canvas/images/portfolio/4/7.jpg"
-										alt="Backpack Contents">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="https://www.youtube.com/watch?v=kuceVNBTJio"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="http://themes.semicolonweb.com/html/canvas/portfolio-single-video.html">Backpack
-										Contents</a></h3>
-								<span><a href="#">UI Elements</a>, <a href="#">Icons</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html">
-									<img src="http://themes.semicolonweb.com/html/canvas/images/portfolio/4/8.jpg"
-										alt="Sunset Bulb Glow">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item">
-										<a href="http://themes.semicolonweb.com/html/canvas/images/portfolio/full/8.jpg"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"
-											data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-										<a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html"
-											class="overlay-trigger-icon bg-light text-dark"
-											data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall"
-											data-hover-speed="350" data-hover-parent=".portfolio-item"><i
-												class="icon-line-ellipsis"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"
-										data-hover-parent=".portfolio-item"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="http://themes.semicolonweb.com/html/canvas/portfolio-single.html">Sunset
-										Bulb Glow</a></h3>
-								<span><a href="#">Graphics</a></span>
-							</div>
-						</div>
-					</article>
-
-				</div>
-
 				<a href="tel:78884-24302" class="button button-full button-dark center text-right bottommargin-lg">
 					<div class="container clearfix">
 						Call Us Today for FREE Consultations <strong>CALL 78884-24302</strong> <i
@@ -725,345 +453,216 @@
 
 
 
-				<div class="container clearfix">
-
-					<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60"
-						data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2"
-						data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
-
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/1.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/2.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/3.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/4.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/5.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/6.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/7.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/8.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/9.png"
-									alt="Clients"></a></div>
-						<div class="oc-item"><a href="#"><img
-									src="http://themes.semicolonweb.com/html/canvas/images/clients/10.png"
-									alt="Clients"></a></div>
-
-					</div>
-
-
-				</div>
+				
 			</div>
 		</section><!-- #content end -->
 
-		<!-- Footer
-		============================================= -->
-		<footer id="footer" class="dark">
-			<div class="container">
+		<section class="collaborate-about">
+        <div class="container">
+            <div class="contact-form-heading">
+                <h2>Collaborate With Us</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="get-in-touch">
+                        <ul>
+                            <li><i class="fa fa-angle-double-right"></i> Free 40 minute consultation for your project.</li>
+                            <li><i class="fa fa-angle-double-right"></i> We are the CTO and Product Manager for your product.</li>
+                            <li><i class="fa fa-angle-double-right"></i> 100% Confidential Consultation including a signed NDA!</li>
+                            <li><i class="fa fa-angle-double-right"></i> Detailed Documentation and Analysis of your project.</li>
+                            <li><i class="fa fa-angle-double-right"></i> We provide killer UI and UX.</li>
+                            <li><i class="fa fa-angle-double-right"></i> No obligation quote.</li>
+                            <li><i class="fa fa-angle-double-right"></i> SUPER quick kick start to your project.</li>
+                            <li><i class="fa fa-angle-double-right"></i> We always deliver the source code with the project.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="contact-form">
+                        <h3>LET’S TALK ABOUT PROJECT</h3>
+                        <p>Response within 24 hours, guaranteed!</p>
+                        <form>
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" id="name" name="name" class="form-control" placeholder="Name" required />
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" id="email" name="email" class="form-control" placeholder="Email Address" required/>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" id="contactno" name="contactno" class="form-control" placeholder="Contact Number" required/>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="text" name="skype" class="form-control" placeholder="Skype" />
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+                                        <textarea class="form-control" name="message" placeholder="Project Details"></textarea>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+                                        <div id="contactform_captcha"></div>
+                                        <div class="errMsg" id="errMsg" style="display: none; color: red;">Please verify you are humann!</div>
+                                        <input id="ct_hiddenRecaptcha" type="hidden" name="capcha_name" value="">
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group intership-form">
+                                        <div class="loading" style="display: none;"></div>
+                                        <button type="submit" name="submit" class="common-btn text-uppercase" id="contactformSubmit">Let's Talk<i class="zmdi zmdi-long-arrow-right"></i></button>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+		<footer>
+        <div class="container">
+            <div class="upper-footer">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="footer-company-info">
+                            <div class="footer-logo-img">
+                                <img src="images/white-logo.png">
+                            </div>
+                            <div class="footer-company-content">
+                                <p>Strikeout your entire digital marketing to-do list, breakthrough your growth plateau and see profound ROI with a single team of digital marketing specialists.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="quick-links">
+                            <div class="footer-section-heading">
+                                <h5>Quick Links</h5>
+                            </div>
+                            <div class="footer-section-content">
+                                <ul>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="#">Services</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footer-custom-plan">
+                            <div class="footer-section-heading">
+                                <h5>Customize Your Plan</h5>
+                            </div>
+                            <div class="footer-section-content">
+                                <ul>
+                                    <li><a href="#">Startup Plan</a></li>
+                                    <li><a href="#">Ecommerce Plan</a></li>
+                                    <li><a href="#">Blogging Plan</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row footer-contact-info">
+                    <div class="col-md-4">
+                        <div class="footer-contact">
+                            <span><img src="images/info_icon1.png" alt="tel-icon"></span>
+                            <p><strong><a href="tel:7888424302">+91-7888424302</a></strong></p>
+                            <p>Mon-Sat 9 am to 6 pm</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footer-contact">
+                            <span><img src="images/info_icon2.png" alt="email-icon"></span>
+                            <p><strong><a href="mailto:">info@digitlers.com</a></strong></p>
+                            <p>Online support</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footer-contact">
+                            <span><img src="images/info_icon3.png" alt="address-icon"></span>
+                            <p>SCO-123, Jalandhar</p>
+                            <p>Punjab, India</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="copyright">
+                                <p>Copyright © 2021 Thedigitlers | All Rights Reserved.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="social-icons-footer">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter-square"></i></a></li>
+                                    <li>
+                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
-				<!-- Footer Widgets
-				============================================= -->
-				<div class="footer-widgets-wrap">
+    <div id="gotoTop"><i class="fas fa-arrow-up"></i></div>
 
-					<div class="row col-mb-50">
-						<div class="col-lg-8">
+    <script src="http://themes.semicolonweb.com/html/canvas/js/jquery.js"></script>
+    <script src="http://themes.semicolonweb.com/html/canvas/js/plugins.min.js"></script>
+    <script src="http://themes.semicolonweb.com/html/canvas/js/functions.js"></script>
 
-							<div class="row col-mb-50">
-								<div class="col-md-4">
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js"></script>
 
-									<div class="widget clearfix">
 
-										<img src="http://themes.semicolonweb.com/html/canvas/images/footer-widget-logo.png"
-											alt="Image" class="footer-logo">
-
-										<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp;
-											<strong>Flexible</strong> Design Standards.
-										</p>
-
-										<div
-											style="background: url('http://themes.semicolonweb.com/html/canvas/images/world-map.png') no-repeat center center; background-size: 100%;">
-											<address>
-												<strong>Headquarters:</strong><br>
-												795 Folsom Ave, Suite 600<br>
-												San Francisco, CA 94107<br>
-											</address>
-											<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547
-											632521<br>
-											<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-											<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
-										</div>
-
-									</div>
-
-								</div>
-
-								<div class="col-md-4">
-
-									<div class="widget widget_links clearfix">
-
-										<h4>Blogroll</h4>
-
-										<ul>
-											<li><a href="https://codex.wordpress.org/">Documentation</a></li>
-											<li><a
-													href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>
-											</li>
-											<li><a href="https://wordpress.org/extend/plugins/">Plugins</a></li>
-											<li><a href="https://wordpress.org/support/">Support Forums</a></li>
-											<li><a href="https://wordpress.org/extend/themes/">Themes</a></li>
-											<li><a href="https://wordpress.org/news/">Canvas Blog</a></li>
-											<li><a href="https://planet.wordpress.org/">Canvas Planet</a></li>
-										</ul>
-
-									</div>
-
-								</div>
-
-								<div class="col-md-4">
-
-									<div class="widget clearfix">
-										<h4>Recent Posts</h4>
-
-										<div class="posts-sm row col-mb-30" id="post-list-footer">
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a>
-															</h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a>
-															</h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Debitis nihil placeat, illum est nisi</a>
-															</h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-
-						</div>
-
-						<div class="col-lg-4">
-
-							<div class="row col-mb-50">
-								<div class="col-md-4 col-lg-12">
-									<div class="widget clearfix" style="margin-bottom: -20px;">
-
-										<div class="row">
-											<div class="col-lg-6 bottommargin-sm">
-												<div class="counter counter-small"><span data-from="50"
-														data-to="15065421" data-refresh-interval="80" data-speed="3000"
-														data-comma="true"></span></div>
-												<h5 class="mb-0">Total Downloads</h5>
-											</div>
-
-											<div class="col-lg-6 bottommargin-sm">
-												<div class="counter counter-small"><span data-from="100" data-to="18465"
-														data-refresh-interval="50" data-speed="2000"
-														data-comma="true"></span></div>
-												<h5 class="mb-0">Clients</h5>
-											</div>
-										</div>
-
-									</div>
-								</div>
-
-								<div class="col-md-5 col-lg-12">
-									<div class="widget subscribe-widget clearfix">
-										<h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing
-											Offers &amp; Inside Scoops:</h5>
-										<div class="widget-subscribe-form-result"></div>
-										<form id="widget-subscribe-form"
-											action="http://themes.semicolonweb.com/html/canvas/include/subscribe.php"
-											method="post" class="mb-0">
-											<div class="input-group mx-auto">
-												<div class="input-group-prepend">
-													<div class="input-group-text"><i class="icon-email2"></i></div>
-												</div>
-												<input type="email" id="widget-subscribe-form-email"
-													name="widget-subscribe-form-email"
-													class="form-control required email" placeholder="Enter your Email">
-												<div class="input-group-append">
-													<button class="btn btn-success" type="submit">Subscribe</button>
-												</div>
-											</div>
-										</form>
-									</div>
-								</div>
-
-								<div class="col-md-3 col-lg-12">
-									<div class="widget clearfix" style="margin-bottom: -20px;">
-
-										<div class="row">
-											<div class="col-6 col-md-12 col-lg-6 clearfix bottommargin-sm">
-												<a href="#" class="social-icon si-dark si-colored si-facebook mb-0"
-													style="margin-right: 10px;">
-													<i class="icon-facebook"></i>
-													<i class="icon-facebook"></i>
-												</a>
-												<a href="#"><small style="display: block; margin-top: 3px;"><strong>Like
-															us</strong><br>on Facebook</small></a>
-											</div>
-											<div class="col-6 col-md-12 col-lg-6 clearfix">
-												<a href="#" class="social-icon si-dark si-colored si-rss mb-0"
-													style="margin-right: 10px;">
-													<i class="icon-rss"></i>
-													<i class="icon-rss"></i>
-												</a>
-												<a href="#"><small
-														style="display: block; margin-top: 3px;"><strong>Subscribe</strong><br>to
-														RSS Feeds</small></a>
-											</div>
-										</div>
-
-									</div>
-								</div>
-
-							</div>
-
-						</div>
-					</div>
-
-				</div><!-- .footer-widgets-wrap end -->
-
-			</div>
-
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights">
-				<div class="container">
-
-					<div class="row col-mb-30">
-
-						<div class="col-md-6 text-center text-md-left">
-							Copyrights &copy; 2020 All Rights Reserved by Canvas Inc.<br>
-							<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a>
-							</div>
-						</div>
-
-						<div class="col-md-6 text-center text-md-right">
-							<div class="d-flex justify-content-center justify-content-md-end">
-								<a href="#" class="social-icon si-small si-borderless si-facebook">
-									<i class="icon-facebook"></i>
-									<i class="icon-facebook"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-twitter">
-									<i class="icon-twitter"></i>
-									<i class="icon-twitter"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-gplus">
-									<i class="icon-gplus"></i>
-									<i class="icon-gplus"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-pinterest">
-									<i class="icon-pinterest"></i>
-									<i class="icon-pinterest"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-vimeo">
-									<i class="icon-vimeo"></i>
-									<i class="icon-vimeo"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-github">
-									<i class="icon-github"></i>
-									<i class="icon-github"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-yahoo">
-									<i class="icon-yahoo"></i>
-									<i class="icon-yahoo"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-linkedin">
-									<i class="icon-linkedin"></i>
-									<i class="icon-linkedin"></i>
-								</a>
-							</div>
-
-							<div class="clear"></div>
-
-							<i class="icon-envelope2"></i> info@canvas.com <span class="middot">&middot;</span> <i
-								class="icon-headphones"></i> +1-11-6541-6369 <span class="middot">&middot;</span> <i
-								class="icon-skype2"></i> CanvasOnSkype
-						</div>
-
-					</div>
-
-				</div>
-			</div><!-- #copyrights end -->
-		</footer><!-- #footer end -->
-
-	</div><!-- #wrapper end -->
-
-	<!-- Go To Top
-	============================================= -->
-	<div id="gotoTop" class="icon-angle-up"></div>
-
-	<!-- JavaScripts
-	============================================= -->
-	<script src="http://themes.semicolonweb.com/html/canvas/js/jquery.js"></script>
-	<script src="http://themes.semicolonweb.com/html/canvas/js/plugins.min.js"></script>
-
-	<!-- Footer Scripts
-	============================================= -->
-	<script src="http://themes.semicolonweb.com/html/canvas/js/functions.js"></script>
-
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.owl-carousel').owlCarousel({
+                loop: true,
+                margin: 10,
+                nav: false,
+                autoplay: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            })
+        });
+    </script>
 </body>
-
-<!-- Mirrored from themes.semicolonweb.com/html/canvas/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Mar 2021 02:39:49 GMT -->
 
 </html>
